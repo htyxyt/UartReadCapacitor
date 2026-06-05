@@ -8,8 +8,10 @@ __pycache__/
 
 # Build artifacts
 build/
-dist/
 *.spec
+
+# Test data
+test/
 
 # IDE / Editor
 .deepseek/
