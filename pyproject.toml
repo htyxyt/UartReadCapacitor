@@ -1,0 +1,11 @@
+[project]
+name = "th2817b-collector"
+version = "1.0.0"
+description = "TH2817B 电容数据采集助手"
+requires-python = ">=3.10"
+dependencies = [
+    "pyserial>=3.5",
+    "openpyxl>=3.1",
+    "pyinstaller>=6.0",
+    "matplotlib>=3.7",
+]

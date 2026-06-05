@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+.venv/
+
+# Build artifacts
+build/
+dist/
+*.spec
+
+# IDE / Editor
+.deepseek/
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
